@@ -4,7 +4,7 @@ class KubectlNotes < Formula
   homepage "https://github.com/lucperkins/kubectl-notes"
   url "https://github.com/lucperkins/kubectl-notes/releases/download/v0.1.0/kubectl-notes_0.1.0_Darwin_x86_64.tar.gz"
   version "0.1.0"
-  sha256 "3656f41b898cc4e79f0eb60a487f76832adcbe9c8ab4ecf0ab2f3c192f5993e6"
+  sha256 "83db62a418c574b3b183cc78a4505430c01c3205bacabd6b26d70ee666c41912"
 
   def install
     bin.install "kubectl-notes"
