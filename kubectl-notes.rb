@@ -2,9 +2,9 @@
 class KubectlNotes < Formula
   desc "kubectl extension for working with notes for Kubernetes Pods"
   homepage "https://github.com/lucperkins/kubectl-notes"
-  url "https://github.com/lucperkins/kubectl-notes/releases/download/v0.1.2/kubectl-notes_0.1.2_Darwin_x86_64.tar.gz"
-  version "0.1.2"
-  sha256 "1c7caf913de0efaaf13c891a97dec974161006282d0ee911d268c315f0b81562"
+  url "https://github.com/lucperkins/kubectl-notes/releases/download/v0.1.21/kubectl-notes_0.1.21_Darwin_x86_64.tar.gz"
+  version "0.1.21"
+  sha256 "448376dbc14f2e46885d210ce0af82396323c02ac79fb325a08e7db1e5412e54"
 
   def install
     bin.install "kubectl-notes"
